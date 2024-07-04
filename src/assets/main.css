@@ -1,0 +1,40 @@
+@import './base.css';
+
+#app {
+   width: 100%;
+   height: 100vh;
+   margin: 0 auto;
+   font-weight: normal;
+}
+.layout-border__right {
+   position: relative;
+}
+.layout-border__right:after {
+   content: '';
+   position: absolute;
+   top: 0;
+   right: 0;
+   width: 1px;
+   height: 100%;
+   background-color: var(--el-border-color);
+   z-index: 3;
+}
+.layout-border__bottom {
+   position: relative;
+}
+.layout-border__bottom:after {
+   content: '';
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   height: 1px;
+   background-color: var(--el-border-color);
+   z-index: 3;
+}
+
+/* 点击子菜单时父级选中 */
+.is-active > .el-sub-menu__title,
+.is-active.submenu-title-noDropdown {
+   color: var(--el-color-primary);
+}

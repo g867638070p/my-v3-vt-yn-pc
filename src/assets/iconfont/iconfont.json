@@ -1,0 +1,100 @@
+{
+  "id": "4541311",
+  "name": "v3-ts-vt-yran",
+  "font_family": "friends",
+  "css_prefix_text": "el-aside-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18176315",
+      "name": "实时视频",
+      "font_class": "shishishipin",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "1986997",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "3702619",
+      "name": "角色管理",
+      "font_class": "navicon-jsgl",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "3079043",
+      "name": "热更新",
+      "font_class": "regengxin",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "5969562",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "10056834",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "10904093",
+      "name": "我的报告",
+      "font_class": "wodebaogao",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "17464587",
+      "name": "git-square",
+      "font_class": "git-square",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "19933519",
+      "name": "3D",
+      "font_class": "3D",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "20856187",
+      "name": "图表组合_1",
+      "font_class": "tubiaozuhe_1",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "21553342",
+      "name": "js",
+      "font_class": "js",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "26436633",
+      "name": "vue-图标",
+      "font_class": "vue-tubiao",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "34519939",
+      "name": "低代码",
+      "font_class": "didaima",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    }
+  ]
+}

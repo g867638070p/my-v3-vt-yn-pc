@@ -1,0 +1,75 @@
+@font-face {
+   font-family: 'friends'; /* Project id 4541311 */
+   /* Color fonts */
+   src: url('iconfont.woff2?t=1719553423160') format('woff2'),
+      url('iconfont.woff?t=1719553423160') format('woff'),
+      url('iconfont.ttf?t=1719553423160') format('truetype');
+}
+
+.friends {
+   font-family: 'friends' !important;
+   font-size: 16px;
+   font-style: normal;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+[class^='el-aside-'],
+[class*=' el-aside-'] {
+   font-family: 'friends' !important;
+   font-size: 16px;
+   font-style: normal;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+.el-aside-shishishipin:before {
+   content: '\e657';
+}
+
+.el-aside-quanxianguanli:before {
+   content: '\e629';
+}
+
+.el-aside-navicon-jsgl:before {
+   content: '\e640';
+}
+
+.el-aside-regengxin:before {
+   content: '\e6a4';
+}
+
+.el-aside-shouye:before {
+   content: '\e619';
+}
+
+.el-aside-yonghu:before {
+   content: '\e618';
+}
+
+.el-aside-wodebaogao:before {
+   content: '\e69f';
+}
+
+.el-aside-git-square:before {
+   content: '\e677';
+}
+
+.el-aside-3D:before {
+   content: '\e61c';
+}
+
+.el-aside-tubiaozuhe_1:before {
+   content: '\e78e';
+}
+
+.el-aside-js:before {
+   content: '\e802';
+}
+
+.el-aside-vue-tubiao:before {
+   content: '\e656';
+}
+
+.el-aside-didaima:before {
+   content: '\e682';
+}
